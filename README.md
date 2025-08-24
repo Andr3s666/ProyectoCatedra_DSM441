@@ -1,5 +1,8 @@
 # ProyectoCatedra_DSM441
+Este repositorio ha sido creado con el propósito de investigar, analizar y desarrollar una API REST para la gestión de inventario, utilizando tecnologías modernas del ecosistema Android.
+El proyecto está desarrollado en Kotlin y estructurado mediante Android Studio, aplicando buenas prácticas de desarrollo móvil y arquitectura de software.
 
+# Integrantes del Proyecto
 | Integrantes de Equipo                    |  Carnet    |
 |------------------------------------------|------------|
 | Andrés Eduardo Navidad Flores            | NF220677   |
@@ -7,14 +10,12 @@
 | Gustavo Enrique Martínez Hernández       | MH180755   |
 | David Isaac Segura Sánchez               | SS231442   |
 
-
-# Gestion y Enlaces del Proyectp
-📌 [Tablero de trabajo en Trello o Notion] (https://trello.com/b/k7DFQzpN/app-panaderia)
-🎨 [Diseños Mockups] (https://www.figma.com/design/TCuj4gADfyAkLv6LLFrzrr/DSM_Fase1?node-id=0-1&t=eDIimeCadiVSPNdC-1)
-📄 [Documento PDF] ()
+# Gestion y Enlaces del Proyecto
+-📌 [Tablero de trabajo en Trello o Notion] (https://trello.com/b/k7DFQzpN/app-panaderia)
+-🎨 [Diseños Mockups] (https://www.figma.com/design/TCuj4gADfyAkLv6LLFrzrr/DSM_Fase1?node-id=0-1&t=eDIimeCadiVSPNdC-1)
+-📄 [Documento PDF] (En Espera)
 
 # Licencia
-
 Este trabajo está licenciado bajo la licencia  
 **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**.
 
@@ -25,4 +26,3 @@ Eso significa que otros pueden **compartir** este trabajo siempre que:
 
 > Más información: [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 
-![Licencia CC](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
