@@ -13,7 +13,7 @@ El proyecto está desarrollado en Kotlin y estructurado mediante Android Studio,
 # Gestion y Enlaces del Proyecto
 -📌 [Tablero de trabajo en Trello o Notion] (https://trello.com/b/k7DFQzpN/app-panaderia)
 -🎨 [Diseños Mockups] (https://www.figma.com/design/TCuj4gADfyAkLv6LLFrzrr/DSM_Fase1?node-id=0-1&t=eDIimeCadiVSPNdC-1)
--📄 [Documento PDF] (En Espera)
+-📄 [Documento PDF] (https://drive.google.com/file/d/1kwe7Ps2Y_tEaleRrfhQay7QRA3O8hrno/view?usp=sharing)
 
 # Licencia
 Este trabajo está licenciado bajo la licencia  
