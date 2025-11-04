@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DistribuPan</string>
+    <string name="navigation_drawer_open">Abrir Menú</string>
+    <string name="navigation_drawer_close">Cerrar Menú</string>
+</resources>

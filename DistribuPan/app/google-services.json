@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575232902195",
+    "project_id": "androidfirebase-825d8",
+    "storage_bucket": "androidfirebase-825d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575232902195:android:eb8007324183b61ca18f46",
+        "android_client_info": {
+          "package_name": "com.example.distribupan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHLWZZq0V7doKPitDFQ3H40czv-OF7sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

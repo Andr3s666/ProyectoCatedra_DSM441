@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta panadería -->
+    <color name="brown_dark">#5D4037</color>
+    <color name="brown_medium">#8D6E63</color>
+    <color name="cream_light">#FFF3E0</color>
+    <color name="text_dark">#3E2723</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
